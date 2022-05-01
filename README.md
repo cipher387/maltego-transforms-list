@@ -9,6 +9,8 @@ A list of tools that handle different data and make it usable in Maltego.
 |Censys (SSL certificates and IP info from censys.io) | https://github.com/mpars0ns/maltego_censys |
 |Internet archive (webarchive.org) | https://github.com/brianwarehime/wayback-maltego |
 |VirusTotal (Public API v2.0) | https://github.com/michael-yip/MaltegoVT |
+|Grey Noise | https://github.com/GreyNoise-Intelligence/greynoise-maltego  |
+|Host.io | https://github.com/cmlh/Maltego-Host.io  |
 |I Have Been Pwned | https://github.com/cmlh/Maltego-haveibeenpwned |
 |FullContact | https://github.com/cmlh/Maltego-FullContact |
 |Clearbit | https://github.com/cmlh/Maltego-Clearbit |
@@ -38,3 +40,4 @@ A list of tools that handle different data and make it usable in Maltego.
 |Hunchly | https://github.com/hunchly/hunchly-maltego |
 |Binaryedge | https://github.com/Te-k/binaryedge-maltego-local-transform |
 |Github | https://github.com/cmlh/Maltego-GitHub | 
+|Gravatar | https://github.com/cmlh/Maltego-Gravatar | 
