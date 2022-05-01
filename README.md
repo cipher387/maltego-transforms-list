@@ -14,15 +14,18 @@ There is list of tools that handle different data and make it usable in Maltego:
 |VirusTotal (Public API v2.0) | https://github.com/michael-yip/MaltegoVT |
 |Grey Noise | https://github.com/GreyNoise-Intelligence/greynoise-maltego  |
 |Host.io | https://github.com/cmlh/Maltego-Host.io  |
+|DNSTwist | https://github.com/TURROKS/maltego_dnstwist  |
 |I Have Been Pwned | https://github.com/cmlh/Maltego-haveibeenpwned |
 |FullContact | https://github.com/cmlh/Maltego-FullContact |
 |Clearbit | https://github.com/cmlh/Maltego-Clearbit |
 |Skype | https://github.com/NoobieDog/Skype-Maltego-Client |
+|GraphSense |https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform  |
 |Nmap (parsing xml results) | https://github.com/activeshadow/maltego-nmap |
 |ThreatCrowd search API | https://github.com/AlienVault-OTX/ThreatCrowd-Maltego |
 |Holehe | https://github.com/megadose/holehe-maltego |
 |Hacker Target IP | https://github.com/hackertarget/maltego_transforms |
 |Recon NG | https://github.com/bostonlink/recon-ng-maltego |
+|MITRE ATT&CK | https://github.com/gbikram/Maltego-ATTCK |
 |Twint | https://github.com/twintproject/twint-maltego-plugin |
 |NessusScan | https://github.com/securifera/MaltegoNessusParser |
 |Phoneinfoga | https://github.com/megadose/phoneinfoga-maltego |
