@@ -47,3 +47,16 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Binaryedge | https://github.com/Te-k/binaryedge-maltego-local-transform |
 |Github | https://github.com/cmlh/Maltego-GitHub | 
 |Gravatar | https://github.com/cmlh/Maltego-Gravatar | 
+
+
+
+<hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Github — https://github.com/cipher387
+
+<hr>
+
