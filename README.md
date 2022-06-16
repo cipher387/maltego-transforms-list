@@ -1,7 +1,7 @@
 <h1>Maltego Transforms List</h1>
 
 
-Maltego - one of most famous graphical analyze tool for #osint.
+Maltego (https://www.maltego.com) - one of most famous graphical analyze tool for #osint.
 
 There is list of tools that handle different data and make it usable in Maltego:
 
