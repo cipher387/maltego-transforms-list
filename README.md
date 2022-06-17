@@ -1,6 +1,10 @@
 <h1>Maltego Transforms List</h1>
 
 
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/maltego-transforms-list">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/maltego-transforms-list">
+
 Maltego (https://www.maltego.com) - one of most famous graphical analyze tool for #osint.
 
 There is list of tools that handle different data and make it usable in Maltego:
