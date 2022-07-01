@@ -5,6 +5,9 @@
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/maltego-transforms-list">
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+
 Maltego (https://www.maltego.com) - one of most famous graphical analyze tool for #osint.
 
 There is list of tools that handle different data and make it usable in Maltego:
