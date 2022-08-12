@@ -15,6 +15,9 @@ Maltego (https://www.maltego.com) - one of most famous graphical analyze tool fo
 There is list of tools that handle different data and make it usable in Maltego:
 
 
+<h2>Open source</h2>
+
+
 |   Description    |          Link           |
 |------------------|-------------------------|
 |Facebook |https://github.com/cmlh/Maltego-Facebook |
@@ -58,6 +61,15 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Gravatar | https://github.com/cmlh/Maltego-Gravatar | 
 
 
+
+<h2>Paid</h2>
+
+
+|   Description    |          Link           |
+|------------------|-------------------------|
+|Hunter.io | https://www.maltego.com/transform-hub/hunter-io/ |
+|Intel 471 | https://www.maltego.com/transform-hub/intel-471/ |
+|Google social network transforms | https://www.maltego.com/transform-hub/google-programmable-search-engine-transforms/|
 
 <hr>
 
