@@ -1,6 +1,8 @@
 <h1>Maltego Transforms List</h1>
 
 
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+
 <div>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/maltego-transforms-list">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/maltego-transforms-list">
@@ -75,11 +77,5 @@ There is list of tools that handle different data and make it usable in Maltego:
 
 <hr>
 
-Twitter — https://twitter.com/cyb_detective
 
-Telegram — https://t.me/cybdetective
-
-Github — https://github.com/cipher387
-
-<hr>
-
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
