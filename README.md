@@ -29,6 +29,7 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Internet archive (webarchive.org) | https://github.com/brianwarehime/wayback-maltego |
 |VirusTotal (Public API v2.0) | https://github.com/michael-yip/MaltegoVT |
 |Grey Noise | https://github.com/GreyNoise-Intelligence/greynoise-maltego  |
+|A TON of privacy | https://github.com/aaarghhh/atop_maltego |
 |Host.io | https://github.com/cmlh/Maltego-Host.io  |
 |DNSTwist | https://github.com/TURROKS/maltego_dnstwist  |
 |I Have Been Pwned | https://github.com/cmlh/Maltego-haveibeenpwned |
@@ -63,7 +64,7 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Binaryedge | https://github.com/Te-k/binaryedge-maltego-local-transform |
 |Github | https://github.com/cmlh/Maltego-GitHub | 
 |Gravatar | https://github.com/cmlh/Maltego-Gravatar | 
-|A TON of privacy | https://github.com/aaarghhh/atop_maltego |
+
 
 
 
