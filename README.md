@@ -104,6 +104,7 @@ There is list of tools that handle different data and make it usable in Maltego:
 
 
 <h2>Other Maltego Transforms Lists</h2>
+
 |   Description    |          Link           |
 |------------------|-------------------------|
 | John Doe Lab Maltego transforms list | https://github.com/John-Doe-lab/Maltego_transforms |
