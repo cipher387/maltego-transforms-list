@@ -36,6 +36,7 @@ There is list of tools that handle different data and make it usable in Maltego:
 |FullContact | https://github.com/cmlh/Maltego-FullContact |
 |Clearbit | https://github.com/cmlh/Maltego-Clearbit |
 |Skype | https://github.com/NoobieDog/Skype-Maltego-Client |
+|CQFD (Skype search) | https://github.com/megadose/cqfd-maltego |
 |GraphSense |https://github.com/INTERPOL-Innovation-Centre/GraphSense-Maltego-transform  |
 |Nmap (parsing xml results) | https://github.com/activeshadow/maltego-nmap |
 |ThreatCrowd search API | https://github.com/AlienVault-OTX/ThreatCrowd-Maltego |
@@ -64,6 +65,19 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Binaryedge | https://github.com/Te-k/binaryedge-maltego-local-transform |
 |Github | https://github.com/cmlh/Maltego-GitHub | 
 |Gravatar | https://github.com/cmlh/Maltego-Gravatar | 
+|Ghunt | https://github.com/kodamaChameleon/ghunt-maltego | 
+|Netlas | https://publication.osintambition.org/using-maltego-with-netlas-io-plugin-b3b17bd0881b | 
+|SumoSearch.ch| https://github.com/kodamaChameleon/sumoMaltego |
+|Twilio |https://github.com/kodamaChameleon/twilio-maltego |
+|URLscrapper | https://github.com/HawkEyes-OSINT/URLscrapperTransform |
+|Interpol Notices | https://github.com/SocialLinks-IO/interpol-notices-maltego |
+|ThreatButt | https://github.com/ivanlei/threatbutt |
+|Web2Screenshot | https://github.com/TURROKS/Maltego_Web2Screenshot |
+|Instagram | https://github.com/thanasxda/maltego_transform_instagram |
+|CrowdSec CTI | https://github.com/crowdsecurity/maltego-transforms | 
+|Mihari| https://github.com/ssnkhan/mihari-maltego-transform | 
+|MISP Threat Sharing| https://github.com/MISP/MISP-maltego | 
+|Maltego BTC (Bitcoin) | https://github.com/5haman/maltego-btc  | 
 
 
 
@@ -77,7 +91,29 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Intel 471 | https://www.maltego.com/transform-hub/intel-471/ |
 |Google social network transforms | https://www.maltego.com/transform-hub/google-programmable-search-engine-transforms/|
 
+
+<h2>Tools for creating Maltego Transforms</h2>
+
+
+|   Description    |          Link           |
+|------------------|-------------------------|
+|Maltego Transformation Template | https://github.com/soxoj/maltego-transformation-template|
+|TransNet | https://github.com/secana/TransNet |
+|Maltego TRX Python Library | https://github.com/MaltegoTech/maltego-trx |
+|PureBasic Maltego Transforms | https://github.com/Syr0/Purebasic-Maltego-Transforms |
+
+
+<h2>Other Maltego Transforms Lists</h2>
+|   Description    |          Link           |
+|------------------|-------------------------|
+| John Doe Lab Maltego transforms list | https://github.com/John-Doe-lab/Maltego_transforms |
+| Maltego Transform Hub | https://www.maltego.com/transform-hub/|
+| Local transform collection |https://github.com/MaltegoTech/maltego-ltc |
+
+
+
 <hr>
+
 
 
 Thank you for following me! https://cybdetective.com
