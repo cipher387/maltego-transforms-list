@@ -78,9 +78,16 @@ There is list of tools that handle different data and make it usable in Maltego:
 |Mihari| https://github.com/ssnkhan/mihari-maltego-transform | 
 |MISP Threat Sharing| https://github.com/MISP/MISP-maltego | 
 |Maltego BTC (Bitcoin) | https://github.com/5haman/maltego-btc  | 
-
-
-
+|Interpol Notices Maltego | https://github.com/SocialLinks-IO/interpol-notices-maltego | 
+|Validin API (IP info) | [https://github.com/SocialLinks-IO/interpol-notices-maltego](https://github.com/Validin/validin-maltego) | 
+|Spur Enrichment API (info about VPN, Proxy, Residential Proxy, and related anonymization observations) | https://github.com/spurintel/spur-enrichment-for-maltego | 
+|Sherlock (username enumeration) | https://github.com/thehackersbrain/maltego-transforms/tree/main/sherlock-transform | 
+|Wallet Explorer| https://github.com/ioannisvlachos/cryptosearch | 
+|Threat Butt| https://github.com/ivanlei/threatbutt  | 
+|Ip2location | https://github.com/ip2location/ip2location-io-maltego | 
+|Disinfo laundformat | https://github.com/soxoj/disinfo-laundromat-maltego | 
+|Pappers API | https://github.com/Reflets-info/maltego-tools | 
+|Telegram (channel owner by sticker pack)| https://github.com/vognik/maltego-telegram | 
 
 <h2>Paid</h2>
 
