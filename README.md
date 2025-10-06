@@ -7,6 +7,7 @@ Thank you for following me! https://cybdetective.com
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/maltego-transforms-list">
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+
 <p align="center">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fmaltego-transforms-list%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -85,6 +86,7 @@ There is list of tools that handle different data and make it usable in Maltego:
 | Disinfo laundformat                                                                                    | https://github.com/soxoj/disinfo-laundromat-maltego                                                      |
 | Pappers API                                                                                            | https://github.com/Reflets-info/maltego-tools                                                            |
 | Telegram (channel owner by sticker pack)                                                               | https://github.com/vognik/maltego-telegram                                                               |
+| Tomba.io                                                                                               | https://github.com/tomba-io/tomba-maltego                                                                |
 
 <h2>Paid</h2>
 
